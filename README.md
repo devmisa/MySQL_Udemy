@@ -1,2 +1,2 @@
-# introducao-sql
+# SQL
 Introdução e anotações sobre SQL 
